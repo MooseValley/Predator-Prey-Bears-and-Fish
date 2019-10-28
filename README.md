@@ -1,7 +1,7 @@
 # Preditor-Prey - Bears and Fish
 
 ## Source of these questions: Unknown.
-I found these questions in many places on the internet, but none of the locations specified a source.  If you know the source (the text book, or whatever), please let me know.
+I found these questions in many places on the internet, but none of the locations specified an original source.  If you know the original source (the text book, original author, or whatever), please let me know. :smiley:
 
 
 ## P-2.31
