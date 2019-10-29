@@ -10,4 +10,5 @@ Write a simulator as in the previous project, but add a boolean gender field and
 
 ## YouTube Videos Working through this problem:
 
-[Preditor-Prey - Bears and Fish - Part 1](https://www.youtube.com/watch?v=NhDvmoOW5gc&list=PLfKyhM9sqOY5bHuIgk_taSa7qEBh8EPce).
+### Preditor-Prey - Bears and Fish - Part 1
+* [https://www.youtube.com/watch?v=NhDvmoOW5gc](https://www.youtube.com/watch?v=NhDvmoOW5gc&list=PLfKyhM9sqOY5bHuIgk_taSa7qEBh8EPce).
