@@ -8,6 +8,9 @@ Write a Java program [or Basic, Python, C++ or whatever language you like - Moos
 Write a simulator as in the previous project, but add a boolean gender field and a floating-point strength field to each Animal object. Now, if two animals of the same type try to collide, then they only create a new instance of that type of animal if they are of different genders. Otherwise, if two animals of the same type and gender try to collide, then only the one of larger strength survives.
 
 
-Preditor-Prey - Bears and Fish - Part 1
-https://youtu.be/NhDvmoOW5gc
-https://www.youtube.com/watch?v=NhDvmoOW5gc&list=PLfKyhM9sqOY5bHuIgk_taSa7qEBh8EPce
+## YouTube Videos Working through this problem:
+
+This site was built using [GitHub Pages](https://pages.github.com/).
+
+* [Preditor-Prey - Bears and Fish - Part 1]
+(https://www.youtube.com/watch?v=NhDvmoOW5gc&list=PLfKyhM9sqOY5bHuIgk_taSa7qEBh8EPce)
