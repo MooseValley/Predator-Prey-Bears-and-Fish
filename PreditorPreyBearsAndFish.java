@@ -1,4 +1,8 @@
-
+/*
+ Author: Moose OMalley
+ Source: PreditorPreyBearsAndFish.java
+Descrtn: Simple simulation of Preditor-Prey - Bears and Fish.
+*/
 import java.security.SecureRandom;
 import java.util.Scanner;
 import javax.swing.Timer;
